@@ -1,6 +1,6 @@
 {
   "manifests": {
-    "shancept/plesk_recipe": {
+    "symfony/framework-bundle": {
       "manifest": {
         "copy-from-recipe": {
           "config/": "%CONFIG_DIR%/",

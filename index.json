@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "shancept/plesk_recipe": [
+    "symfony/framework-bundle": [
       "1.0"
     ]
   },
