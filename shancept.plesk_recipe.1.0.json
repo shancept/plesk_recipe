@@ -1,0 +1,14 @@
+{
+  "manifests": {
+    "shancept/plesk_recipe": {
+      "manifest": {
+        "copy-from-recipe": {
+          "config/": "%CONFIG_DIR%/",
+          "public/": "%PUBLIC_DIR%/",
+          "src/": "%SRC_DIR%/"
+        }
+      },
+      "ref": "137152ee7010a07db93a03c1822442519bb914a3"
+    }
+  }
+}
