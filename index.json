@@ -1,7 +1,7 @@
 {
   "recipes": {
     "symfony/framework-bundle": [
-      "1.0"
+      "5.4"
     ]
   },
   "branch": "master",
