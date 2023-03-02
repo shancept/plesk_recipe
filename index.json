@@ -2,6 +2,9 @@
   "recipes": {
     "symfony/framework-bundle": [
       "5.4"
+    ],
+    "symfony/routing": [
+      "6.0"
     ]
   },
   "branch": "master",
